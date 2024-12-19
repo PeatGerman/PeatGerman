@@ -1,5 +1,7 @@
+
 # 💫 About Me:
-👨‍💻 I’m currently working on<br>A Flask Voting Tool<br>A Discord Bot<br>👯 I’m looking to collaborate on<br>Open-source Python projects, especially those involving Flask, Discord integrations, or MVC architecture<br>🤝 I’m looking for help with<br>Enhancing my Flask applications, deepening my understanding of AI technologies, and optimizing MVC patterns in web development<br>🌱 I’m currently learning<br>Artificial Intelligence concepts<br>Advanced Flask and Python techniques<br>Mastering the Model-View-Controller (MVC) architecture<br>💬 Ask me about<br>Flask development, Discord bots, MVC architecture, and getting started with Python<br>⚡ Fun fact<br>I’m fascinated by AI and how it can transform the way we create and use technology 
+Hi, I’m PeatGerman! I’m a tech enthusiast passionate about automation, open-source tools, and creating efficient solutions using Python. My projects often include Discord bots, process automation, and exploring cutting-edge technologies like AI tools.<br><br>🐧 Linux Fan: Avid user of NixOS and Debian, enjoying the flexibility and power of Linux for development.<br>🐋 Docker Enthusiast: I leverage Docker for containerization and efficient deployment of my applications.<br>🔧 Current Work:<br>A Flask Voting Tool to simplify group decision-making.<br>A feature-packed Discord Bot for community management and automation.<br>🌱 Learning Journey:<br>Diving deeper into Flask, advanced Python techniques, and Docker workflows.<br>Exploring the potential of AI tools, especially Large Language Models (LLMs), to enhance development workflows and user experiences.
+
 
 
 # 💻 Tech Stack:
